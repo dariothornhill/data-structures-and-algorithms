@@ -1,2 +1,1 @@
-# data-structures-and-algorithms-python
-Data Structures Repo
+# data-structures-and-algorithms
