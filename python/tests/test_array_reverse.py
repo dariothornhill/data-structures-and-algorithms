@@ -1,4 +1,4 @@
-from code_challenges.array_reverse import array_reverse
+from challenges.array_reverse.array_reverse import array_reverse
 
 
 def test_import():
